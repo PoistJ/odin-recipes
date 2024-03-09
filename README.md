@@ -1,0 +1,1 @@
+This is a page containing recipes (tentatively) but might diverge to contain other useful/relevant information for myself. It is also an exercise to demonstrate and practice the basics I've learned to this point in HTML.
